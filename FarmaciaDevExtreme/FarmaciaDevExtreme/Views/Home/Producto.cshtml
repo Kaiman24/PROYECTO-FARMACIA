@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Producto</h2>
+
+@(Html.DevExtreme().DataGrid<FarmaciaDevExtreme.Models.Producto>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Producto")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.id);
+
+        columns.AddFor(m => m.idProducto);
+
+        columns.AddFor(m => m.nombreProducto);
+
+        columns.AddFor(m => m.descripcionProducto);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

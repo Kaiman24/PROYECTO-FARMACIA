@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "DetalleFactura";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DetalleFactura</h2>
+
+@(Html.DevExtreme().DataGrid<FarmaciaDevExtreme.Models.DetalleFactura>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("DetalleFactura")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.id);
+
+        columns.AddFor(m => m.cantidadProducto);
+
+        columns.AddFor(m => m.montoTotal);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

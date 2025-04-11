@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Laboratorio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Laboratorio</h2>
+
+@(Html.DevExtreme().DataGrid<FarmaciaDevExtreme.Models.Laboratorio>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Laboratorio")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.id);
+
+        columns.AddFor(m => m.nombreLaboratorio);
+
+        columns.AddFor(m => m.ciudadLaboratorio);
+
+        columns.AddFor(m => m.direccionLaboratorio);
+
+        columns.AddFor(m => m.telefonoLaboratorio);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

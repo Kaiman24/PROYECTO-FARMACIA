@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Direccion";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Direccion</h2>
+
+@(Html.DevExtreme().DataGrid<FarmaciaDevExtreme.Models.Direccion>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Direccion")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.id);
+
+        columns.AddFor(m => m.ciudad);
+
+        columns.AddFor(m => m.estado);
+
+        columns.AddFor(m => m.pais);
+
+        columns.AddFor(m => m.codigoPostal);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)
