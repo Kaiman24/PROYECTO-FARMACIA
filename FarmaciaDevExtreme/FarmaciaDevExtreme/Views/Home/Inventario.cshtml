@@ -3,29 +3,38 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+
 <h2>Inventario</h2>
 
 @(Html.DevExtreme().DataGrid<FarmaciaDevExtreme.Models.Inventario>()
-    .DataSource(ds => ds.WebApi()
-        .Controller("Inventario")
-        .LoadAction("Get")
-        .InsertAction("Post")
-        .UpdateAction("Put")
-        .DeleteAction("Delete")
-        .Key("id")
-    )
-    .RemoteOperations(true)
-    .Columns(columns => {
+            .DataSource(ds => ds.WebApi()
+                .Controller("Inventario")
+                .LoadAction("Get")
+                .InsertAction("Post")
+                .UpdateAction("Put")
+                .DeleteAction("Delete")
+                .Key("id")
+            )
+            .RemoteOperations(true)
+            .Columns(columns => {
 
-        columns.AddFor(m => m.id);
+                columns.AddFor(m => m.id);
 
-        columns.AddFor(m => m.cantidadStock);
+                columns.AddFor(m => m.idProducto);
 
-        columns.AddFor(m => m.precio);
-    })
+                columns.AddFor(m => m.cantidadStock);
+
+                columns.AddFor(m => m.precio);
+
+            })
+
+
+
+
     .Editing(e => e
         .AllowAdding(true)
         .AllowUpdating(true)
         .AllowDeleting(true)
     )
 )
+

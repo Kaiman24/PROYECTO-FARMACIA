@@ -22,7 +22,11 @@ namespace FarmaciaDevExtreme {
 
             // Bootstrap
             styleBundle
+                 .Include("~/Content/dx.greenmist.css");
+            styleBundle
                 .Include("~/Content/bootstrap.css");
+
+         
 
             // Custom site styles
             styleBundle

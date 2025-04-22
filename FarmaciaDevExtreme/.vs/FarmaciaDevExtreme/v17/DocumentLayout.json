@@ -3,112 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\home\\laboratorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\laboratorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\home\\detallefactura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\detallefactura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\direccion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\direccion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\detallefactura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\detallefactura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\laboratorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\laboratorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\farmaceutico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\farmaceutico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\factura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\farmaceutico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\farmaceutico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|c:\\users\\k2g9d\\downloads\\proyecto farmacia\\farmaciadevextreme\\farmaciadevextreme\\models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\content\\dx.greenmist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\content\\dx.greenmist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\farmaciadevextreme\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE641131-B8E4-440F-ADA7-D9A465B3F9A2}|FarmaciaDevExtreme\\FarmaciaDevExtreme.csproj|solutionrelative:farmaciadevextreme\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,310 +142,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DireccionController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Producto.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:20:02.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FacturaController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:18:34.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InventarioController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAqwEwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:19:16.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwFEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:22:47.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Direccion.cshtml",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T07:29:37.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T07:44:43.337Z",
+              "WhenOpened": "2025-04-22T14:14:55.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Producto.cshtml",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T06:50:54.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:38:42.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "DetalleFactura.cshtml",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\DetalleFactura.cshtml",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\DetalleFactura.cshtml",
               "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\DetalleFactura.cshtml",
               "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\DetalleFactura.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T07:57:08.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetalleFacturaController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDsAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:55:10.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Factura.cshtml",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Direccion.cshtml",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Direccion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T07:38:01.016Z",
+              "WhenOpened": "2025-04-11T07:29:37.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Inventario.cshtml",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T07:51:05.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Factura.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Factura.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Factura.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:23:10.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Empleados.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Empleados.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Empleados.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Empleados.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Empleados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:23:01.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Inventario.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Inventario.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Inventario.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Inventario.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Inventario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:23:15.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DetalleFactura.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:22:53.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Laboratorio.cshtml",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Laboratorio.cshtml",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Laboratorio.cshtml",
               "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Laboratorio.cshtml",
               "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Laboratorio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T07:43:35.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T06:38:34.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LaboratorioController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwBoAAABcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:21:37.959Z",
+              "WhenOpened": "2025-04-11T07:22:47.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Laboratorio.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Laboratorio.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Laboratorio.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Laboratorio.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Laboratorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:23:19.208Z",
+              "DocumentIndex": 2,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Producto.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:50:54.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Persona.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Persona.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:23:23.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA5wFEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:35:24.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Cliente.cs",
-              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:22:26.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 5,
               "Title": "Direccion.cs",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Direccion.cs",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Direccion.cs",
@@ -434,7 +250,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
+              "Title": "Factura.cshtml",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Factura.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:38:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventario.cshtml",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Home\\Inventario.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:51:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:22:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleFacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\DetalleFacturaController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:55:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Inventario.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:23:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Factura.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:23:10.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:22:49.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:18:34.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Cliente.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:22:26.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:44:43.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Empleados.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Empleados.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Empleados.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:23:01.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Farmaceutico.cs",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Farmaceutico.cs",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Farmaceutico.cs",
@@ -447,7 +406,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:38:42.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwEwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:19:16.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Persona.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:23:23.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Laboratorio.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Laboratorio.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Laboratorio.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Laboratorio.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Laboratorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:23:19.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Categoria.cs",
@@ -455,12 +468,11 @@
               "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:22:23.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T06:22:23.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Administrativo.cs",
               "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Models\\Administrativo.cs",
               "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Models\\Administrativo.cs",
@@ -468,12 +480,91 @@
               "RelativeToolTip": "FarmaciaDevExtreme\\Models\\Administrativo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:21:49.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T06:21:49.096Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Content\\bootstrap.css",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T03:23:00.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:14:51.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DevExtremeBundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\App_Start\\DevExtremeBundleConfig.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\App_Start\\DevExtremeBundleConfig.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\App_Start\\DevExtremeBundleConfig.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\App_Start\\DevExtremeBundleConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:21:01.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dx.greenmist.css",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Content\\dx.greenmist.css",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Content\\dx.greenmist.css",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Content\\dx.greenmist.css",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Content\\dx.greenmist.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T01:56:29.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DireccionController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\DireccionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:20:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LaboratorioController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\LaboratorioController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:21:37.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\k2g9d\\Downloads\\PROYECTO FARMACIA\\FarmaciaDevExtreme\\FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "FarmaciaDevExtreme\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:35:24.968Z"
             }
           ]
         }

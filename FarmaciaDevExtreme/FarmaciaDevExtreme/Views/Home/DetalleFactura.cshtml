@@ -17,15 +17,34 @@
     .RemoteOperations(true)
     .Columns(columns => {
 
-        columns.AddFor(m => m.id);
+       
+
+
+        columns.AddFor(m => m.idProducto);
+
+        columns.AddFor(m => m.precio);
 
         columns.AddFor(m => m.cantidadProducto);
-
         columns.AddFor(m => m.montoTotal);
     })
+    .Paging(p => p.PageSize(10))
+.FilterRow(f => f.Visible(true))
+.HeaderFilter(f => f.Visible(true))
+.GroupPanel(p => p.Visible(true))
+.Grouping(g => g.AutoExpandAll(false))
+.RemoteOperations(true)
+
+            .Summary(s => s.TotalItems(items =>
+            {
+                items.AddFor(m => m.montoTotal).SummaryType(SummaryType.Sum);
+            }))
+
     .Editing(e => e
         .AllowAdding(true)
         .AllowUpdating(true)
         .AllowDeleting(true)
     )
+
+
 )
+@Styles.Render("~/Content/dx.greenmist.css")

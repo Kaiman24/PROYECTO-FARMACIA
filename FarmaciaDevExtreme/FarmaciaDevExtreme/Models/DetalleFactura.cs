@@ -8,8 +8,14 @@ namespace FarmaciaDevExtreme.Models
 	public class DetalleFactura
 	{
 		public int id { get; set; }
-		public Producto idProducto { get; set; }
-		public int cantidadProducto { get; set; }
+		public int idProducto { get; set; }
+        public string nombreProducto { get; set; }
+
+        public int precio { get; set; }
+        public int cantidadProducto { get; set; }
 		public double montoTotal { get; set; }
+
+
+		
 	}
 }
